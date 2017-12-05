@@ -1,6 +1,4 @@
-# Databricks Coding Assignment: Resource Manager
-
-For the integrity of the process, please do not distribute or make public the assignment. Thank you!
+# Resource Manager
 
 ### Prerequisites
 
@@ -64,11 +62,3 @@ instance.
    given time.
 6. The resource manager can hold onto instances from the cloud provider even after it has unplaced
    all containers from those instances.
-
-### Submission
-
-After completion of the assignment, please zip the folder, and email us the zip file as your
-submission. Please do NOT upload the assignment or your submission on any public location.
-
-
-**Databricks Confidential and Proprietary**
